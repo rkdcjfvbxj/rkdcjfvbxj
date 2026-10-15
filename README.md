@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33470820/README.md)
 <div align="center">
 
 # 전창현 · CHANGHYUN JEON
@@ -27,6 +26,7 @@ Java · Spring Boot · React를 중심으로 웹 서비스를 만들고 있습�
 ## Featured Project
 
 ### 🩸 BloodOps | 헌혈 서비스 웹 애플리케이션
+발표 ppt : https://docs.google.com/presentation/d/1AcDEw25RXcXdkTdsT1zbs_DUyU54B-fM/edit?usp=sharing&ouid=113569103949361867733&rtpof=true&sd=true
 
 헌혈자와 의료진이 이용하는 기능을 연결한 풀스택 팀 프로젝트입니다.  
 헌혈 과정의 편의성과 의료진의 관리 업무를 함께 고려했습니다.
